@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventMIS", "EventMIS\EventMIS.csproj", "{AC5E2A5B-1EE1-4195-8941-5C4696ECE716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5E2A5B-1EE1-4195-8941-5C4696ECE716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5E2A5B-1EE1-4195-8941-5C4696ECE716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5E2A5B-1EE1-4195-8941-5C4696ECE716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5E2A5B-1EE1-4195-8941-5C4696ECE716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD65BD1D-5C29-4638-99FF-15670A2FDF00}
+	EndGlobalSection
+EndGlobal
